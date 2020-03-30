@@ -1,5 +1,5 @@
 <!-- Change the colour #f8fafc to match the previous section colour -->
-<img src="/images/cta_image.svg">
+<img src="/images/cta_swoosh.svg">
 <section class="container mx-auto text-center py-6 mb-12">
 
     <h1 class="w-full my-2 text-5xl font-bold leading-tight text-center text-white">{{$title}}</h1>
